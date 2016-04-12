@@ -1,0 +1,19 @@
+{
+  "name": "theblacksea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninayanez/theblacksea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninayanez/theblacksea/issues"
+  },
+  "homepage": "https://github.com/ninayanez/theblacksea#readme"
+}
